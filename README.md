@@ -1,5 +1,5 @@
-#Melboure Housing
-#INTRODUCTION
+INTRODUCTION
+
 Melbourne Housing Project Using this data create a model (Linear Regression) to predict a house's value. We want to be able to understand what creates value in a house, as though we were a real estate developer. The project should follow the guideline as:
   1. Examine and explore data (visualization, interactions among features)
   2. Apply the model for prediction with holdout and cross validation
